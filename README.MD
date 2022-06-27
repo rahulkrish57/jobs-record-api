@@ -1,6 +1,6 @@
 #### API link
 https://jobs-record-api.herokuapp.com/
-API URL link:
+##### API URL link:
 1. Register a user (POST): https://jobs-record-api.herokuapp.com/api/v1/auth/register
 2. Login(POST): https://jobs-record-api.herokuapp.com/api/v1/auth/login
 3. Create a job(POST) : https://jobs-record-api.herokuapp.com/api/v1/jobs
